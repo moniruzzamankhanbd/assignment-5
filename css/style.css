@@ -1,0 +1,62 @@
+.background{
+    background-color: rgb(180, 89, 180);
+    
+}
+.container{
+    right: 50px;
+    margin: auto;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+
+}
+
+table{
+    
+    background-color: #fff ; 
+    color: black;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px
+    
+}
+
+td{
+    ; 
+    text-align: center;
+    padding:25px;
+    text-size-adjust: 80px;
+}
+
+  
+td:hover {
+    background-color:yellow;
+    color: black;
+    border-radius: 20%;
+    transition: 0.5s;
+    font-weight: bold;
+}
+
+.month{
+    background-color:yellow
+    Padding: 200%
+    
+}
+h1{
+    border: 2px solid purple;
+   text-align: center;
+   background-color: purple;
+  width: 490px;
+   color: #fff;
+  padding: 20px;
+  margin:0 auto ;
+
+
+}
+.color{
+    color: purple;
+
+}
+.color:hover{
+    background-color: purple;
+}
